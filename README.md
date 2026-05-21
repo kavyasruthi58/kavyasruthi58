@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kavya Sruthi 👋</h1>
+<h1 align="center">Hi, I'm Kavya Sruthi Jujjarapu👋</h1>
 
 <p align="center">
   <em>Data &amp; AI Engineer · Building intelligent systems at the intersection of ML, analytics, and healthcare</em>
